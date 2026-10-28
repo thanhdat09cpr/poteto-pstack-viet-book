@@ -1,0 +1,2457 @@
+[
+  {
+    "repo": "poteto-kit",
+    "path": ".github/workflows/example.yml",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/.github/workflows/example.yml"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "ADOPT.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/ADOPT.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "LICENSE",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/LICENSE"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "README.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/README.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "assets/README.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/assets/README.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/01-trust-curve.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/01-trust-curve.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/02-verification.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/02-verification.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/03-feature-map.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/03-feature-map.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/04-skills-from-failures.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/04-skills-from-failures.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/05-evals.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/05-evals.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/06-guardrail-layers.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/06-guardrail-layers.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/07-agent-first-architecture.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/07-agent-first-architecture.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/08-scaling-to-cloud-agents.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/08-scaling-to-cloud-agents.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/09-other-stacks.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/09-other-stacks.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "docs/glossary.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/docs/glossary.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/.agents/skills/verify-app/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/.agents/skills/verify-app/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/.agents/skills/verify-app/references/features/README.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/.agents/skills/verify-app/references/features/README.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/.agents/skills/verify-app/references/features/cross-cutting-flows.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/.agents/skills/verify-app/references/features/cross-cutting-flows.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/.agents/skills/verify-app/references/features/editor.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/.agents/skills/verify-app/references/features/editor.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/.agents/skills/verify-app/references/features/search.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/.agents/skills/verify-app/references/features/search.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/.agents/skills/verify-app/references/features/sidebar.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/.agents/skills/verify-app/references/features/sidebar.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/.agents/skills/verify-app/references/worktree-isolation.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/.agents/skills/verify-app/references/worktree-isolation.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/.dependency-cruiser.cjs",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/.dependency-cruiser.cjs"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/AGENTS.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/AGENTS.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/README.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/README.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/eslint-rules/no-comments.js",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/eslint-rules/no-comments.js"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/eslint-rules/store-stays-private.js",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/eslint-rules/store-stays-private.js"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/eslint-rules/type-services.js",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/eslint-rules/type-services.js"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/eslint-rules/writer-takes-data.js",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/eslint-rules/writer-takes-data.js"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/eslint.config.js",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/eslint.config.js"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/add-feature-folder/.agents/skills/verify-app/references/features/ping.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/add-feature-folder/.agents/skills/verify-app/references/features/ping.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/add-feature-folder/scripts/verify/scenarios/ping.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/add-feature-folder/scripts/verify/scenarios/ping.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/add-feature-folder/src/features/ping/feature.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/add-feature-folder/src/features/ping/feature.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/add-feature-folder/src/features/ping/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/add-feature-folder/src/features/ping/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/add-feature-folder/src/features/ping/ping.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/add-feature-folder/src/features/ping/ping.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/circular-import/src/shared/violation-a.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/circular-import/src/shared/violation-a.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/circular-import/src/shared/violation-b.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/circular-import/src/shared/violation-b.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/client-second-store/src/client/violation-second-store.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/client-second-store/src/client/violation-second-store.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/comment/src/features/sidebar/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/comment/src/features/sidebar/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/coverage-duplicate-id/.agents/skills/verify-app/references/features/ghost-duplicate.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/coverage-duplicate-id/.agents/skills/verify-app/references/features/ghost-duplicate.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/coverage-stale-skip/.agents/skills/verify-app/references/features/ghost-stale.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/coverage-stale-skip/.agents/skills/verify-app/references/features/ghost-stale.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/coverage-stale-skip/scripts/verify/scenarios/ghost-stale.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/coverage-stale-skip/scripts/verify/scenarios/ghost-stale.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/coverage-unknown-id/scripts/verify/scenarios/ghost-unknown.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/coverage-unknown-id/scripts/verify/scenarios/ghost-unknown.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/create-store-dynamic-import/src/features/sidebar/violation-dynamic-store.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/create-store-dynamic-import/src/features/sidebar/violation-dynamic-store.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/create-store-in-feature/src/features/sidebar/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/create-store-in-feature/src/features/sidebar/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/doc-without-feature/.agents/skills/verify-app/references/features/removed.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/doc-without-feature/.agents/skills/verify-app/references/features/removed.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/eslint-disable-escape/src/features/sidebar/violation.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/eslint-disable-escape/src/features/sidebar/violation.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/feature-internal-import/src/features/sidebar/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/feature-internal-import/src/features/sidebar/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/feature-missing-doc/src/features/ghost/feature.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/feature-missing-doc/src/features/ghost/feature.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/feature-missing-doc/src/features/ghost/ghost.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/feature-missing-doc/src/features/ghost/ghost.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/feature-missing-doc/src/features/ghost/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/feature-missing-doc/src/features/ghost/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/feature-parent-import/src/features/sidebar/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/feature-parent-import/src/features/sidebar/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/feature-registry-relative/src/registry-relative.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/feature-registry-relative/src/registry-relative.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/feature-registry/src/registry.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/feature-registry/src/registry.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/feature-without-feature-file/src/features/orphan/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/feature-without-feature-file/src/features/orphan/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/framework-imports-app/src/framework/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/framework-imports-app/src/framework/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/framework-imports-feature/src/framework/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/framework-imports-feature/src/framework/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/framework-relative-import/src/framework/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/framework-relative-import/src/framework/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/glob-aliased/src/features/sidebar/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/glob-aliased/src/features/sidebar/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/glob-outside-discover/src/features/sidebar/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/glob-outside-discover/src/features/sidebar/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/import-meta-allowed/src/features/sidebar/dev-support.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/import-meta-allowed/src/features/sidebar/dev-support.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/main-imports-renderer/src/electron/main/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/main-imports-renderer/src/electron/main/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/renderer-imports-main/src/electron/renderer/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/renderer-imports-main/src/electron/renderer/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/rogue-writer/src/client/violation-rogue-writer.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/rogue-writer/src/client/violation-rogue-writer.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/script-imports-feature-internals/scripts/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/script-imports-feature-internals/scripts/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/shared-imports-up/src/shared/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/shared-imports-up/src/shared/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/state-mutation/src/features/sidebar/violation-mutate-state.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/state-mutation/src/features/sidebar/violation-mutate-state.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/store-namespace-import/src/client/violation-rename-writer.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/store-namespace-import/src/client/violation-rename-writer.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/store-reexport/src/client/violation-rename-writer.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/store-reexport/src/client/violation-rename-writer.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/store-reexport/src/shared/violation-make-store.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/store-reexport/src/shared/violation-make-store.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/store-renamed-import/src/client/violation-rename-writer.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/store-renamed-import/src/client/violation-rename-writer.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/use-effect-destructure/src/features/sidebar/violation.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/use-effect-destructure/src/features/sidebar/violation.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/use-effect-import/src/features/sidebar/violation.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/use-effect-import/src/features/sidebar/violation.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/use-effect-member/src/features/sidebar/violation.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/use-effect-member/src/features/sidebar/violation.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/use-layout-effect/src/features/sidebar/violation.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/use-layout-effect/src/features/sidebar/violation.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/writer-bypass-relative/src/features/sidebar/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/writer-bypass-relative/src/features/sidebar/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/guardrail-fixtures/writer-bypass/src/features/sidebar/violation.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/guardrail-fixtures/writer-bypass/src/features/sidebar/violation.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/index.html",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/index.html"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/package.json",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/package.json"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/check-features.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/check-features.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/guardrails.test.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/guardrails.test.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify-coverage.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify-coverage.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/chrome.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/chrome.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/cli.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/cli.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/coverage-record.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/coverage-record.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/doctor.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/doctor.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/load-scenarios.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/load-scenarios.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/port.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/port.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/report.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/report.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/scenario.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/scenario.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/scenarios/cross-cutting.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/scenarios/cross-cutting.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/scenarios/editor.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/scenarios/editor.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/scenarios/search.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/scenarios/search.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/scenarios/sidebar.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/scenarios/sidebar.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/selectors.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/selectors.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/selftest.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/selftest.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/server.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/server.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/scripts/verify/trace.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/scripts/verify/trace.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/app-config.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/app-config.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/client/commands.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/client/commands.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/client/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/client/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/electron/main/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/electron/main/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/electron/renderer/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/electron/renderer/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/env.d.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/env.d.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/editor/commit-title.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/editor/commit-title.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/editor/editor.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/editor/editor.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/editor/feature.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/editor/feature.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/editor/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/editor/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/search/feature.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/search/feature.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/search/filter-notes.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/search/filter-notes.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/search/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/search/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/search/search-button.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/search/search-button.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/search/search-palette.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/search/search-palette.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/search/search-store.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/search/search-store.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/sidebar/feature.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/sidebar/feature.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/sidebar/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/sidebar/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/features/sidebar/sidebar.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/features/sidebar/sidebar.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/framework/discover.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/framework/discover.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/framework/feature.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/framework/feature.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/framework/index.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/framework/index.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/framework/shell.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/framework/shell.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/main.tsx",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/main.tsx"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/shared/create-store.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/shared/create-store.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/shared/deep-freeze.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/shared/deep-freeze.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/shared/ipc.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/shared/ipc.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/shared/types.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/shared/types.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/src/styles.css",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/src/styles.css"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/tsconfig.json",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/tsconfig.json"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "example/vite.config.ts",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/example/vite.config.ts"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/README.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/README.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/SKILL.template.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/SKILL.template.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/cli-contract.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/cli-contract.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/cloud-environment.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/cloud-environment.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/evidence-export.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/evidence-export.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/features/README.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/features/README.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/features/_feature.template.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/features/_feature.template.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/features/cross-cutting-flows.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/features/cross-cutting-flows.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/launch-by-app-type.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/launch-by-app-type.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/test-account.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/test-account.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/create-verification/references/verify-app-template/references/worktree-isolation.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/create-verification/references/verify-app-template/references/worktree-isolation.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "marketplace/agensi/investigate/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/marketplace/agensi/investigate/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/README.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/README.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/automation/automerge-policy.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/automation/automerge-policy.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/automation/bug-repro.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/automation/bug-repro.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/automation/goal-ticks.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/automation/goal-ticks.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/ci/check-coverage.mjs",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/ci/check-coverage.mjs"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/ci/check-feature-map.sh",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/ci/check-feature-map.sh"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/ci/ci.yml",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/ci/ci.yml"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/evals/EVAL_PLAYBOOK.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/evals/EVAL_PLAYBOOK.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/evals/judge-prompt.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/evals/judge-prompt.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/evals/rubric.template.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/evals/rubric.template.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/evals/scoreboard.template.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/evals/scoreboard.template.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/guardrails/architecture-contract.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/guardrails/architecture-contract.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/guardrails/enforcement-layers.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/guardrails/enforcement-layers.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/guardrails/review-comment-to-rule.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/guardrails/review-comment-to-rule.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/CATALOG.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/CATALOG.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/_skill-from-failure.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/_skill-from-failure.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/are-you-sure-you-need-x/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/are-you-sure-you-need-x/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/create-verification/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/create-verification/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/investigate/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/investigate/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/maintain-verification/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/maintain-verification/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/team-mode/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/team-mode/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/team-mode/principles/_principle.template.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/team-mode/principles/_principle.template.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/team-mode/principles/boundary-discipline.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/team-mode/principles/boundary-discipline.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/team-mode/principles/encode-lessons-in-skills.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/team-mode/principles/encode-lessons-in-skills.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/team-mode/principles/fix-root-causes.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/team-mode/principles/fix-root-causes.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/team-mode/principles/script-the-deterministic-parts.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/team-mode/principles/script-the-deterministic-parts.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/SKILL.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/SKILL.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/cli-contract.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/cli-contract.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/cloud-environment.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/cloud-environment.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/evidence-export.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/evidence-export.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/features/README.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/features/README.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/features/_feature.template.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/features/_feature.template.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/features/cross-cutting-flows.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/features/cross-cutting-flows.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/launch-by-app-type.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/launch-by-app-type.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/test-account.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/test-account.md"
+  },
+  {
+    "repo": "poteto-kit",
+    "path": "templates/skills/verify-app/references/worktree-isolation.md",
+    "url": "https://github.com/epistex-dev/poteto-kit/blob/0b357c1ec9f6d676fd2e5477d84cdcb34ff40493/templates/skills/verify-app/references/worktree-isolation.md"
+  },
+  {
+    "repo": "pstack",
+    "path": ".cursor-plugin/plugin.json",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/.cursor-plugin/plugin.json"
+  },
+  {
+    "repo": "pstack",
+    "path": "LICENSE",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/LICENSE"
+  },
+  {
+    "repo": "pstack",
+    "path": "README.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/README.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "agents/comment-sicko.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/agents/comment-sicko.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "agents/poteto-agent.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/agents/poteto-agent.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/FOR_AGENTS.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/FOR_AGENTS.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/README.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/README.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/skills/reproduce-and-fix-issues/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/skills/reproduce-and-fix-issues/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/skills/reproduce-and-fix-issues/references/control-adapter.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/skills/reproduce-and-fix-issues/references/control-adapter.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/skills/reproduce-and-fix-issues/references/feature-map.example.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/skills/reproduce-and-fix-issues/references/feature-map.example.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/skills/reproduce-and-fix-issues/references/verify-existing-fix.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/skills/reproduce-and-fix-issues/references/verify-existing-fix.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/skills/setup-benny/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/skills/setup-benny/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/skills/triage-issue-reports/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/skills/triage-issue-reports/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/skills/triage-issue-reports/references/routing.example.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/skills/triage-issue-reports/references/routing.example.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/templates/configuration.example.yaml",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/templates/configuration.example.yaml"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/templates/reproduce-automation-prompt.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/templates/reproduce-automation-prompt.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "automations/benny/templates/triage-automation-prompt.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/automations/benny/templates/triage-automation-prompt.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/01-setup.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/01-setup.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/02-poteto-mode.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/02-poteto-mode.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/03-understand.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/03-understand.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/04-design.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/04-design.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/05-build-and-clean.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/05-build-and-clean.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/06-verify-and-ship.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/06-verify-and-ship.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/07-overnight.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/07-overnight.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/08-principles.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/08-principles.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/09-make-it-yours.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/09-make-it-yours.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/10-recipes-and-pitfalls.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/10-recipes-and-pitfalls.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/guide/README.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/guide/README.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "docs/harness/claude-code.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/docs/harness/claude-code.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "plugin.json",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/plugin.json"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/architect/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/architect/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/architect/references/design-red-flags.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/architect/references/design-red-flags.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/architect/references/rationale-template.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/architect/references/rationale-template.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/architect/references/runner-prompt.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/architect/references/runner-prompt.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/arena/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/arena/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/automate-me/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/automate-me/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/benchmark-checklist/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/benchmark-checklist/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/blast-radius/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/blast-radius/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/bro/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/bro/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/correct/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/correct/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/create-formal-verification-skill/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/create-formal-verification-skill/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/create-verification-skill/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/create-verification-skill/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/create-verification-skill/references/feature-map-example/README.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/create-verification-skill/references/feature-map-example/README.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/create-verification-skill/references/feature-map-example/create-note.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/create-verification-skill/references/feature-map-example/create-note.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/create-verification-skill/references/feature-map-example/search.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/create-verification-skill/references/feature-map-example/search.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/figure-it-out/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/figure-it-out/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/how/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/how/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/how/references/explainer-prompt.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/how/references/explainer-prompt.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/how/references/explorer-prompt.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/how/references/explorer-prompt.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/in-your-own-words/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/in-your-own-words/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/interrogate/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/interrogate/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/ketchup-video/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/ketchup-video/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/ketchup/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/ketchup/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/maintain-formal-verification-skill/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/maintain-formal-verification-skill/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/maintain-verification-skill/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/maintain-verification-skill/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/make-bot-ui/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/make-bot-ui/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/no-comments/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/no-comments/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-help/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-help/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-help/references/prompting.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-help/references/prompting.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-help/references/recipes.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-help/references/recipes.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/authoring-a-skill.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/authoring-a-skill.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/autonomous-run.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/autonomous-run.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/autopilot-full.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/autopilot-full.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/autopilot-stack.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/autopilot-stack.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/babysit.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/babysit.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/bug-fix.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/bug-fix.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/eval.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/eval.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/feature.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/feature.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/hillclimb.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/hillclimb.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/investigation.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/investigation.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/multi-phase-plan.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/multi-phase-plan.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/opening-a-pr.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/opening-a-pr.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/orchestrate.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/orchestrate.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/pause-safely.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/pause-safely.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/perf-issue.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/perf-issue.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/prototype.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/prototype.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/refactoring.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/refactoring.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/runtime-forensics.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/runtime-forensics.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/session-pickup.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/session-pickup.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/shipping.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/shipping.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/trace-forensics.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/trace-forensics.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/visual-parity.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/visual-parity.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/playbooks/worktree-cleanup.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/playbooks/worktree-cleanup.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/references/bugbot-triage.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/references/bugbot-triage.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/bootstrap.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/bootstrap.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/check-plan.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/check-plan.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/check-plan.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/check-plan.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/package.json",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/package.json"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/cli.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/cli.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/cli.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/cli.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/fakes.test-helper.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/fakes.test-helper.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/github.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/github.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/github.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/github.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/policy.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/policy.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/policy.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/policy.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/render.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/render.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/tsconfig.json",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/tsconfig.json"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/types.compile.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/types.compile.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/watch-pr/types.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/watch-pr/types.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/poteto-mode/scripts/worktree-audit.sh",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/poteto-mode/scripts/worktree-audit.sh"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-attack-the-premise/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-attack-the-premise/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-boundary-discipline/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-boundary-discipline/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-build-the-lever/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-build-the-lever/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-encode-lessons-in-structure/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-encode-lessons-in-structure/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-exhaust-the-design-space/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-exhaust-the-design-space/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-experience-first/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-experience-first/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-explain-the-number/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-explain-the-number/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-fix-root-causes/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-fix-root-causes/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-foundational-thinking/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-foundational-thinking/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-guard-the-context-window/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-guard-the-context-window/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-laziness-protocol/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-laziness-protocol/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-make-operations-idempotent/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-make-operations-idempotent/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-migrate-callers-then-delete-legacy-apis/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-migrate-callers-then-delete-legacy-apis/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-minimize-reader-load/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-minimize-reader-load/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-model-the-domain/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-model-the-domain/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-never-block-on-the-human/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-never-block-on-the-human/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-outcome-oriented-execution/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-outcome-oriented-execution/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-prove-it-works/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-prove-it-works/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-redesign-from-first-principles/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-redesign-from-first-principles/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-separate-before-serializing-shared-state/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-separate-before-serializing-shared-state/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-sequence-verifiable-units/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-sequence-verifiable-units/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-subtract-before-you-add/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-subtract-before-you-add/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-test-behavior-not-implementation/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-test-behavior-not-implementation/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/principle-type-system-discipline/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/principle-type-system-discipline/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/recall/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/recall/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/reflect/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/reflect/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/reflect/references/divergent-reviewer.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/reflect/references/divergent-reviewer.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/reflect/references/judgment-reviewer.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/reflect/references/judgment-reviewer.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/reflect/references/synthesizer.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/reflect/references/synthesizer.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/reflect/references/tooling-reviewer.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/reflect/references/tooling-reviewer.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/setup-pstack/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/setup-pstack/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/sharpen/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/sharpen/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/show-me-your-work/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/show-me-your-work/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/show-me-your-work/scripts/log.sh",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/show-me-your-work/scripts/log.sh"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/references/render.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/references/render.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/backends/cfg.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/backends/cfg.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/backends/mermaid.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/backends/mermaid.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/backends/plain-text.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/backends/plain-text.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/backends/report.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/backends/report.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/config.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/config.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/dot.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/dot.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/marks.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/marks.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/messages.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/messages.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/spec.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/spec.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/trace.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/trace.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/value.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/value.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/verdict.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/verdict.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/frontends/view.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/frontends/view.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/ir.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/ir.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/package.json",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/package.json"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/passes/annotate.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/passes/annotate.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/passes/label.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/passes/label.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/passes/lift.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/passes/lift.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/passes/loop-check.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/passes/loop-check.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/passes/paths.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/passes/paths.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/passes/reach.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/passes/reach.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/passes/region-check.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/passes/region-check.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/passes/regions.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/passes/regions.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/pipeline.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/pipeline.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/run.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/run.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/statechart.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/statechart.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/chart.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/chart.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/cli.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/cli.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/config-fuzz.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/config-fuzz.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Counter/Counter.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Counter/Counter.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Counter/Counter.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Counter/Counter.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Counter/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Counter/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterAction/CounterAction.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterAction/CounterAction.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterAction/CounterAction.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterAction/CounterAction.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterAction/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterAction/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterDeadlock/CounterDeadlock.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterDeadlock/CounterDeadlock.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterDeadlock/CounterDeadlock.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterDeadlock/CounterDeadlock.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterDeadlock/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterDeadlock/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterFan/CounterFan.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterFan/CounterFan.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterFan/CounterFan.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterFan/CounterFan.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterFan/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterFan/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterGuard/CounterGuard.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterGuard/CounterGuard.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterGuard/CounterGuard.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterGuard/CounterGuard.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterGuard/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterGuard/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInitPast/CounterInitPast.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInitPast/CounterInitPast.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInitPast/CounterInitPast.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInitPast/CounterInitPast.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInitPast/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInitPast/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInitPastHolds/CounterInitPastHolds.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInitPastHolds/CounterInitPastHolds.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInitPastHolds/CounterInitPastHolds.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInitPastHolds/CounterInitPastHolds.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInitPastHolds/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInitPastHolds/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInstance/CounterInstance.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInstance/CounterInstance.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInstance/CounterInstance.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInstance/CounterInstance.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInstance/CounterSteps.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInstance/CounterSteps.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterInstance/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterInstance/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterJump/CounterJump.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterJump/CounterJump.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterJump/CounterJump.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterJump/CounterJump.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterJump/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterJump/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterLoop/CounterLoop.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterLoop/CounterLoop.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterLoop/CounterLoop.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterLoop/CounterLoop.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterLoop/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterLoop/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterOrder/CounterOrder.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterOrder/CounterOrder.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterOrder/CounterOrder.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterOrder/CounterOrder.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterOrder/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterOrder/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterRules/CounterRules.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterRules/CounterRules.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterRules/CounterRules.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterRules/CounterRules.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterRules/Moves.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterRules/Moves.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterRules/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterRules/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterStart/CounterStart.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterStart/CounterStart.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterStart/CounterStart.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterStart/CounterStart.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterStart/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterStart/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterStop/CounterStop.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterStop/CounterStop.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterStop/CounterStop.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterStop/CounterStop.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterStop/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterStop/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterTie/CounterTie.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterTie/CounterTie.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterTie/CounterTie.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterTie/CounterTie.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterTie/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterTie/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterTieInGraph/CounterTieInGraph.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterTieInGraph/CounterTieInGraph.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterTieInGraph/CounterTieInGraph.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterTieInGraph/CounterTieInGraph.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterTieInGraph/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterTieInGraph/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterView/CounterView.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterView/CounterView.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterView/CounterView.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterView/CounterView.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterView/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterView/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/CounterView/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/CounterView/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/DieHard/DieHard.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/DieHard/DieHard.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/DieHard/DieHard.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/DieHard/DieHard.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/DieHard/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/DieHard/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/FirstRule/FirstRule.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/FirstRule/FirstRule.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/FirstRule/FirstRule.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/FirstRule/FirstRule.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/FirstRule/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/FirstRule/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/HiddenClock/HiddenClock.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/HiddenClock/HiddenClock.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/HiddenClock/HiddenClock.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/HiddenClock/HiddenClock.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/HiddenClock/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/HiddenClock/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Login/Login.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Login/Login.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Login/Login.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Login/Login.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Login/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Login/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Login/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Login/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/LoginGuarded/LoginGuarded.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/LoginGuarded/LoginGuarded.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/LoginGuarded/LoginGuarded.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/LoginGuarded/LoginGuarded.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/LoginGuarded/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/LoginGuarded/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/LoginGuarded/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/LoginGuarded/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/LoginParallel/LoginParallel.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/LoginParallel/LoginParallel.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/LoginParallel/LoginParallel.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/LoginParallel/LoginParallel.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/LoginParallel/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/LoginParallel/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/LoginParallel/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/LoginParallel/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayer/MediaPlayer.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayer/MediaPlayer.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayer/MediaPlayer.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayer/MediaPlayer.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayer/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayer/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayer/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayer/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerFixed/MediaPlayerFixed.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerFixed/MediaPlayerFixed.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerFixed/MediaPlayerFixed.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerFixed/MediaPlayerFixed.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerFixed/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerFixed/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerFixed/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerFixed/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerProps/MediaPlayer.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerProps/MediaPlayer.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerProps/MediaPlayerProps.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerProps/MediaPlayerProps.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerProps/MediaPlayerProps.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerProps/MediaPlayerProps.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerProps/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerProps/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/MediaPlayerProps/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/MediaPlayerProps/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/PickWorker/PickWorker.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/PickWorker/PickWorker.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/PickWorker/PickWorker.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/PickWorker/PickWorker.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/PickWorker/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/PickWorker/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Shadow/Shadow.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Shadow/Shadow.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Shadow/Shadow.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Shadow/Shadow.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Shadow/ShadowLib.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Shadow/ShadowLib.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Shadow/ShadowSub.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Shadow/ShadowSub.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/Shadow/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/Shadow/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/SpacedNames/SpacedNames.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/SpacedNames/SpacedNames.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/SpacedNames/SpacedNames.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/SpacedNames/SpacedNames.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/SpacedNames/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/SpacedNames/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TwoPhase/TwoPhase.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TwoPhase/TwoPhase.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TwoPhase/TwoPhase.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TwoPhase/TwoPhase.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TwoPhase/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TwoPhase/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TwoPhase/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TwoPhase/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TwoPhaseFixed/TwoPhaseFixed.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TwoPhaseFixed/TwoPhaseFixed.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TwoPhaseFixed/TwoPhaseFixed.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TwoPhaseFixed/TwoPhaseFixed.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TwoPhaseFixed/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TwoPhaseFixed/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TwoPhaseFixed/view.mjs",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TwoPhaseFixed/view.mjs"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TypeGuard/TypeGuard.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TypeGuard/TypeGuard.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TypeGuard/TypeGuard.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TypeGuard/TypeGuard.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/TypeGuard/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/TypeGuard/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/UserNoDeadlock/UserNoDeadlock.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/UserNoDeadlock/UserNoDeadlock.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/UserNoDeadlock/UserNoDeadlock.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/UserNoDeadlock/UserNoDeadlock.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/corpus/UserNoDeadlock/report.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/corpus/UserNoDeadlock/report.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/differential.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/differential.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/grid/Grid.cfg",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/grid/Grid.cfg"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/grid/Grid.tla",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/grid/Grid.tla"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/java.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/java.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/labels.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/labels.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/messages.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/messages.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/pipeline.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/pipeline.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/plain-tlc.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/plain-tlc.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/render.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/render.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/tlc-out.test.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/tlc-out.test.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/test/tlc.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/test/tlc.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/tsconfig.json",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/tsconfig.json"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/statechart/scripts/worker.ts",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/statechart/scripts/worker.ts"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/swarm/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/swarm/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/tdd/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/tdd/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/teach/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/teach/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/technical-writing/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/technical-writing/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/typescript-best-practices/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/typescript-best-practices/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/typescript-best-practices/references/patterns.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/typescript-best-practices/references/patterns.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/unslop/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/unslop/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/SKILL.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/SKILL.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/epistemics.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/epistemics.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/investigator-prompt.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/investigator-prompt.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/source-playbook.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/source-playbook.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/sources/code-archaeology.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/sources/code-archaeology.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/sources/databricks.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/sources/databricks.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/sources/datadog.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/sources/datadog.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/sources/incident-postmortem.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/sources/incident-postmortem.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/sources/linear.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/sources/linear.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/sources/notion.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/sources/notion.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/sources/sentry.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/sources/sentry.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/sources/slack.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/sources/slack.md"
+  },
+  {
+    "repo": "pstack",
+    "path": "skills/why/references/synthesizer-prompt.md",
+    "url": "https://github.com/cursor/plugins/blob/c742dd61706fbacc1b95f1a20b7b988cf096ce6c/pstack/skills/why/references/synthesizer-prompt.md"
+  }
+]
