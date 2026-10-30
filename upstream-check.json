@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-10-30T09:54:37.454982+00:00",
+  "method": "git fetch --deepen=80 origin; compare HEAD with origin/main; diff pstack and harness/pstack against book snapshot",
+  "repositories": [
+    {
+      "name": "poteto-kit",
+      "head": "0b357c1ec9f6d676fd2e5477d84cdcb34ff40493",
+      "upstream_main": "0b357c1ec9f6d676fd2e5477d84cdcb34ff40493",
+      "tip": "2026-10-27T17:42:15+07:00 Update links for rename EPISTEX0 → epistex-dev (#2)",
+      "clean": true
+    },
+    {
+      "name": "cursor-plugins",
+      "head": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "upstream_main": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "tip": "2026-10-29T15:51:24-07:00 Merge pull request #1137 from texclayton/update-gopuff-logo",
+      "clean": true
+    },
+    {
+      "name": "piggery",
+      "head": "dc15dff9e3d99cf2a573337f5319d802b90315e4",
+      "upstream_main": "dc15dff9e3d99cf2a573337f5319d802b90315e4",
+      "tip": "2026-10-27T12:40:01+07:00 piggery v0.12.0: `send` takes an optional `cc`, and the `inbox` tool can look back at your own mail.",
+      "clean": true
+    }
+  ],
+  "pstack_book_snapshot": "c742dd61706fbacc1b95f1a20b7b988cf096ce6c",
+  "pstack_content_changed": false,
+  "piggery_installed_version": "v0.11.2-custom.1",
+  "piggery_upstream_release": "v0.12.0",
+  "runtime_upgraded": false
+}
